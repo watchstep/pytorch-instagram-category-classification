@@ -1,1 +1,1 @@
-# pytorch-instagram-category-classification-
+# pytorch-instagram-category-classification
